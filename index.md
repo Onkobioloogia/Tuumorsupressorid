@@ -408,21 +408,21 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 
 ---
-## The von Hippel-Lindau tumor suppressor gene and kidney cancer
+## von Hippel-Lindau tuumorsupressorgeen ja neeruvähk
 
-- The von Hippel-Lindau tumor suppressor gene (VHL), which resides on chromosome 3p25, is mutated or silenced in >50% of sporadic clear cell renal cell carcinomas.
-- Germ-line VHL mutations give rise to VHL disease, which is characterized by an increased risk of blood vessel tumors (hemangioblastomas) and renal cell carcinomas.
-- VHL inactivation gives rise to premalignant renal cysts. Additional genetic alterations are presumably required for conversion of these cysts to renal cell carcinomas. 
-- The VHL gene product, pVHL, is the substrate recognition module of an E3 ubiquitin ligase that targets the hypoxia-inducible factor (HIF) for destruction in the presence of oxygen.
-- Individuals with von Hippel-Lindau (VHL) disease are at increased risk for developing clear cell carcinoma of the kidney, which is the most common histologic type of renal cancer.
+- von Hippel-Lindau tuumorsupressorgeen (VHL), kromosoomis 3p25, on muteerunud või vaigistatud >50% sporaadilistes selgerakulistes neeruvähkides (*clear cell renal cell carcinomas, CCRCC*).
+- Pärilikud VHL mutatsioonid põhjustavad sündroomi mida iseloomustab kõrgenenud risk saada veresoonevähk (hemangioblastoom) või *RCC*.
+- VHL inaktivatsioon põhjustab premaliigsete neerutsüstide tekke. Tsüstide arenemise kartsinoomideks põhustab ilmselt lisamutatsioonide akumuleerumine. 
+- VHL geenilt kodeeritav valk **pVHL** on funktsioonilt E3 ubiquitiin ligaasi substraati ära tundev subühik, 
+- pVHL saadab piisava hapniku olemasolul keskkonnas (normoksia) proteasoomsele lagundamisele HIF transkriptsioonifaktori (*hypoxia-inducible factor*).
 
 ---
-## pVHL targets specific proteins for destruction
+## pVHL määrab valgu lagundamise 
 
-- pVHL forms stable complexes that contain other proteins called elongin B, elongin C, Cul2, and Rbx1.
-- These complexes are capable of directing the covalent attachment of polyubiquitin tails to specific proteins, which serve as signals for such proteins to be degraded by the proteasome.
-- pVHL targets have been identified, including the members of the hypoxia-inducible factor (HIF) α family (HIF-1α, HIF-2α, and HIF-3α).
-- HIF-α members are highly unstable except under low-oxygen conditions. In the presence of oxygen, these proteins become hydroxylated on conserved prolyl residues in a reaction catalyzed by members of the EGLN family.
+- pVHL osaleb stabiilses ubikvitiin ligaasi kompleksis koos valkudega elongin B, elongin C, Cul2, and Rbx1.
+- pVHL märklaudadeks on HIF-$\alpha$ perekonna valgud HIF-1α, HIF-2α ja HIF-3α.
+- HIF-α valgud on muidu väga ebastabiilsed, välja arvatud madala hapniku tingimustes. 
+- In the presence of oxygen, these proteins become hydroxylated on conserved prolyl residues in a reaction catalyzed by members of the EGLN family.
 - pVHL recognizes the hydroxylated HIF-α species and orchestrates their destruction.
 
 ---
