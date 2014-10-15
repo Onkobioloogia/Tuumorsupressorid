@@ -425,8 +425,10 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 - VHL geenilt kodeeritav valk **pVHL** on funktsioonilt E3 ubiquitiin ligaasi substraati ära tundev subühik, 
 - pVHL saadab piisava hapniku olemasolul keskkonnas (normoksia) proteasoomsele lagundamisele HIF transkriptsioonifaktori (*hypoxia-inducible factor*).
 
----
-## pVHL määrab valgu lagundamise 
+---&twocol
+## pVHL määrab HIF valgu lagundamise 
+
+***=left
 
 - pVHL osaleb stabiilses ubikvitiin ligaasi kompleksis koos valkudega elongin B, elongin C, Cul2, and Rbx1.
 - pVHL märklaudadeks on HIF-$\alpha$ perekonna valgud HIF-1$\alpha$, HIF-2$\alpha$ ja HIF-3$\alpha$.
@@ -434,16 +436,21 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 - Normaalse hapniku tingimustes HIF valgud hüdroksüleeritakse konserveerunud proliinijääkidel. Seda reaktsiooni viivad läbi prolüül hüdroksülaasid (EGLN perek. valgud).
 - Proliin-hüdroksüleeritud HIF seostub pVHL-ile ja ubikvitineeritakse.
 
+***=right
+
 ![hif](http://openi.nlm.nih.gov/imgs/512/151/2360036/2360036_6603547f1.png)
 <p style="font-size:12px">Pilt:openi.nlm.nih.gov</p>
 
 ---
+## HIF on transkriptsioonifaktor
 
-- cells that lack pVHL, or when oxygen is limiting, HIF is free to accumulate and activates the transcription of a cadre of genes involved in short-term and long-term adaptation to hypoxia. 
-- Included among these genes are genes that control glucose uptake and metabolism (such as the Glut1 glucose transporter and various glycolytic enzymes), extracellular pH (such as carbonic anhydrase IX), angiogenesis (such as vascular endothelial growth factor, VEGF), erythropoiesis (such as erythropoietin), and mitogenesis (such as transforming growth factor α, TGF-α, and platelet-derived growth factor B, PDGF-B).
-- down-modulation of HIF-2α is both necessary and sufficient for pVHL to suppress tumor formation by renal cell carcinoma.
+***=left
 
----
+![hiftargets](http://www.chem.ox.ac.uk/oc/cjschofield/images/new-2.png)
 
-![vhl](http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/HIF_and_pVHL.png/1920px-HIF_and_pVHL.png)
 
+***=right
+
+- Rakkudes kus puudub funktsionaalne pVHL, või madala hapniku tingimustes, toimub HIF akumuleerumine ning käivitub terve rea geenide transkriptsioon, mis on seotud hüpoksia adaptatsiooniga.
+- HIF märklaudgeenid on seotud glükoosi metabolismi ja transpordiga (Glut1, glükolüütilised ensüümid), rakuvälise pH regulatsiooniga (*carbonic anhydrase IX*), angiogeneesiga (VEGF), erütropoeesiga (EPO) ja mitogeenid (TGF-$\alpha$, PDGF-B).
+- Katseliselt on näidatud, et HIF-2$\alpha$ alla regulatsioon on vajalik ja piisav, et pVHL supresseeriks neeruvähki.
