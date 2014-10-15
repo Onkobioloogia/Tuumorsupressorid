@@ -383,7 +383,7 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 
 --- &twocol
-## Multiple domains and functions of APC, and its truncated mutants found in colon cancer
+## APC domäänide funktsioonid ja soolevähi deletsioonid
 
 ***=right
 
@@ -391,8 +391,8 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 ***=left
 
-- Activation of the canonical Wnt signal plays an essential role in tumorigenesis caused by APC mutations. 
-- APC plays additional roles in other cellular processes, such as cell migration, adhesion, and chromosome segregation.
+- Kanoonilise Wnt signaaliraja liigne aktivatsioon mängib põhilist rolli APC mutatsioonide poolt põhustatud soolevähi tekkes. 
+- Lisaks on APC-l ouline roll rakkude migratsioonis, adhesioonis ja mitoosis.
 
 ---
 ## The von Hippel-Lindau tumor suppressor gene and kidney cancer
