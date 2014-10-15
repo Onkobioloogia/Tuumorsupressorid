@@ -437,11 +437,12 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 ***=left
 
-![hiftargets]()
 <img src="http://www.chem.ox.ac.uk/oc/cjschofield/images/new-2.png" alt="hif" style="width: 460px;"/>
+<p style="font-size:12px">Pilt:openi.nlm.nih.gov</p>
 
 ***=right
 
-- Rakkudes kus puudub funktsionaalne pVHL, või madala hapniku tingimustes, toimub HIF akumuleerumine ning käivitub terve rea geenide transkriptsioon, mis on seotud hüpoksia adaptatsiooniga.
+- Rakkudes kus puudub funktsionaalne pVHL, või madala hapniku tingimustes, toimub HIF akumuleerumine 
+- HIF käivitub terve rea hüpoksia adaptatsiooniga seotud geenide transkriptsiooni.
 - HIF märklaudgeenid on seotud glükoosi metabolismi ja transpordiga (Glut1, glükolüütilised ensüümid), rakuvälise pH regulatsiooniga (*carbonic anhydrase IX*), angiogeneesiga (VEGF), erütropoeesiga (EPO) ja mitogeenid (TGF-$\alpha$, PDGF-B).
 - Katseliselt on näidatud, et HIF-2$\alpha$ alla regulatsioon on vajalik ja piisav, et pVHL supresseeriks neeruvähki.
