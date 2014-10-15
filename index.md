@@ -394,6 +394,19 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 - Kanoonilise Wnt signaaliraja liigne aktivatsioon mängib põhilist rolli APC mutatsioonide poolt põhustatud soolevähi tekkes. 
 - Lisaks on APC-l ouline roll rakkude migratsioonis, adhesioonis ja mitoosis.
 
+
+---&twocol
+
+***=left
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Beta-catenin-ARM-domain-interactions.png/330px-Beta-catenin-ARM-domain-interactions.png" alt="Beta-catenin" style="width: 300px;"/>
+<p style="font-size:12px">Pilt:en.wikipedia.org/wiki/Beta-catenin</p>
+
+***=right
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Beta-catenin-destruction-complex.png/495px-Beta-catenin-destruction-complex.png" alt="Beta-catenin" style="width: 300px;"/>
+
+
 ---
 ## The von Hippel-Lindau tumor suppressor gene and kidney cancer
 
