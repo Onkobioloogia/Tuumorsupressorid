@@ -59,8 +59,41 @@ strong {
 ## Recap
 
 ----
-## Signaalirajad
+## Valkude SH2/SH3 domäänid vahendavad Ras aktivatsiooni RTK-de poolt
 
+- türosiinkinaas retseptor-P $\rightarrow$ SH2-Shc-P $\rightarrow$ SH2-Grb2-SH3 $\rightarrow$ proline-rich-Sos $\rightarrow$ Ras
+- türosiinkinaas retseptor-P $\rightarrow$ SH2-Grb2-SH3 $\rightarrow$ proline-rich-Sos $\rightarrow$ Ras
+
+![](http://www.rndsystems.com/resources/images/5569.jpg)
+
+---&twocol
+## Ras aktivatsioonil vabaneb tema '*effector loop*'
+
+***=left
+
+- **Receptacle for effectors** comprises the so-called 'SWITCH REGIONS', which are three short segments that border the nucleotide-binding site. 
+     - **P-loop** coordinates nucleotide binding, 
+     - **switch I and II** regions make up a mobile binding surface that conforms to the nature of a bound nucleotide
+
+***=right
+
+![](rasloop.jpg)
+<p style="font-size:12px">doi:10.1038/nrm1229</p>
+
+---&twocol
+## Ras aktiveerib kolm põhilist signaalirada
+
+***=left
+
+Ras toimib läbi oma effektorite:
+
+- **Raf**
+- **fosfatidüülinositool 3 kinaas, PI3K**
+- **RalGDS (Ral GEF)**
+
+***=right
+
+![](RasPI3K.jpg)
 
 --- .segue .dark .nobackground
 ## Tuumorsupressorgeenid
@@ -455,3 +488,11 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 - HIF käivitub terve rea hüpoksia adaptatsiooniga seotud geenide transkriptsiooni.
 - HIF märklaudgeenid on seotud glükoosi metabolismi ja transpordiga (Glut1, glükolüütilised ensüümid), rakuvälise pH regulatsiooniga (*carbonic anhydrase IX*), angiogeneesiga (VEGF), erütropoeesiga (EPO) ja mitogeenid (TGF-$\alpha$, PDGF-B).
 - Katseliselt on näidatud, et HIF-2$\alpha$ alla regulatsioon on vajalik ja piisav, et pVHL supresseeriks neeruvähki.
+
+---
+## Viiteid
+
+- NF1 Tumor Suppressor Gene Function: Narrowing the GAP. Karen Cichowski, Tyler Jacks. Cell Vol 104, Issue 4, 23 Feb 2001, 593–604. DOI: 10.1016/S0092-8674(01)00245-8.
+- Adenomatous polyposis coli (APC): a multi-functional tumor suppressor gene. Koji Aoki and Makoto M. Taketo. J Cell Sci October 1, 2007, 120, 3327-3335. doi: 10.1242/jcs.03485.
+- The Von Hippel-Lindau Tumor Suppressor Gene and Kidney Cancer. William G. Kaelin, Jr. Clin Cancer Res September 15, 2004 10; 6290S. doi:10.1158/1078-0432.CCR-sup-040025.
+
