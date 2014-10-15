@@ -441,7 +441,7 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 ![hif](http://openi.nlm.nih.gov/imgs/512/151/2360036/2360036_6603547f1.png)
 <p style="font-size:12px">Pilt:openi.nlm.nih.gov</p>
 
----
+---&twocol
 ## HIF on transkriptsioonifaktor
 
 ***=left
