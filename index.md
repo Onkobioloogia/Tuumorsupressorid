@@ -437,8 +437,8 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 ***=left
 
-![hiftargets](http://www.chem.ox.ac.uk/oc/cjschofield/images/new-2.png)
-
+![hiftargets]()
+<img src="http://www.chem.ox.ac.uk/oc/cjschofield/images/new-2.png" alt="hif" style="width: 460px;"/>
 
 ***=right
 
