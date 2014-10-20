@@ -259,7 +259,11 @@ Genoomi piirk.|Geene piirk.|Märklaud|Sagedasti muteerunud geen = p.value | Funk
 ---
 ## Vähki genoomi mutatsioonide 'hotspotid'
 
-[Vähkides sagedasti deleteerunud genoomipiirkonnad](http://rpubs.com/tapa741/tuumorsupressorgeenid)
+- Determining how somatic copy number alterations (SCNAs) promote cancer is an important goal. We characterized SCNA patterns in 4,934 cancers from The Cancer Genome Atlas Pan-Cancer data set.
+
+- [Vähkides sagedasti deleteerunud genoomipiirkonnad](http://rpubs.com/tapa741/tuumorsupressorgeenid)
+
+- Pan-cancer patterns of somatic copy number alteration. Travis I Zack, Steven E Schumacher, Scott L Carter, Andrew D Cherniack, Gordon Saksena, Barbara Tabak, Michael S Lawrence, Cheng-Zhong Zhang, Jeremiah Wala, Craig H Mermel, Carrie Sougnez, Stacey B Gabriel, Bryan Hernandez, Hui Shen, Peter W Laird, Gad Getz, Matthew Meyerson & Rameen Beroukhim. Nature Genetics 45, 1134–1140 (2013) doi:10.1038/ng.2760
 
 ---
 # Paljud tuumorsuppressorgeenid seotud pärilike vähisündroomidega
