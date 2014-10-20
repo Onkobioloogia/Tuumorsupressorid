@@ -256,6 +256,9 @@ Genoomi piirk.|Geene piirk.|Märklaud|Sagedasti muteerunud geen = p.value | Funk
 18q21.2|3|**SMAD4**|SMAD4 = 6.6e-15 | transkriptsioonifaktor
 
 
+---
+## Vähki genoomi mutatsioonide 'hotspotid'
+
 [Vähkides sagedasti deleteerunud genoomipiirkonnad](http://rpubs.com/tapa741/tuumorsupressorgeenid)
 
 ---

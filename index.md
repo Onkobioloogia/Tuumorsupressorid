@@ -256,6 +256,9 @@ Genoomi piirk.|Geene piirk.|Märklaud|Sagedasti muteerunud geen = p.value | Funk
 18q21.2|3|**SMAD4**|SMAD4 = 6.6e-15 | transkriptsioonifaktor
 
 
+---
+## Vähki genoomi mutatsioonide 'hotspotid'
+
 [Vähkides sagedasti deleteerunud genoomipiirkonnad](http://rpubs.com/tapa741/tuumorsupressorgeenid)
 
 ---
@@ -308,7 +311,7 @@ DNA metülatsioon on üks geeni vaigistamise mehhanism.
 Geenide **hüpermetülatsioon vähis** ei ole totaalne üle terve kromosoomi või selle regiooni, vaid **toimub geenispetsiifiliselt**, igal geenil individuaalselt.
 
 ***=left
-![plot of chunk meth](assets/fig/meth.svg) 
+![plot of chunk meth](assets/fig/meth-1.svg) 
 
 ***=right
 
@@ -317,10 +320,10 @@ Geenide **hüpermetülatsioon vähis** ei ole totaalne üle terve kromosoomi võ
 ## Analysis of Variance Table
 ## 
 ## Response: Protsent
-##           Df Sum Sq Mean Sq F value Pr(>F)  
-## Geen      11   7302     664    2.42  0.011 *
-## Kasvaja   14   5110     365    1.33  0.206  
-## Residuals 90  24684     274                 
+##           Df  Sum Sq Mean Sq F value  Pr(>F)  
+## Geen      11  7302.2  663.84  2.4204 0.01096 *
+## Kasvaja   14  5109.7  364.98  1.3307 0.20550  
+## Residuals 90 24684.0  274.27                  
 ## ---
 ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 ```
