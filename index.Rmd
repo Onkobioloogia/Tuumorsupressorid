@@ -270,9 +270,9 @@ LOH-il on erinevaid mehhanisme:
 
 <footer class="source">Pilt:atlasgeneticsoncology.org</footer>
 
----
+--- .outfont
 
-# Sage ja korduv mingis kromosoomi piirkonnas toimuv *LOH-event* viitab seal asuvale tuumorsupressorgeenile. 4934 vähki *The Cancer Genome Atlas Pan-Cancer* andmetest.
+# Sage ja korduv kromosoomi lookuse *LOH-event* viitab võimalikule tuumorsupressorgeenile. 4934 vähki *The Cancer Genome Atlas Pan-Cancer* andmetest.
 
 Genoomi piirk.|Geene piirk.|Märklaud|Sagedasti muteerunud geen = p.value | Funktsioon 
 --------------|------------|--------|------------------------------------|-------
