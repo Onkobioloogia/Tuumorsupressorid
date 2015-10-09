@@ -59,69 +59,87 @@ strong {
 }
 </style>
 
---- .segue .dark .nobackground
 
+<footer class="source">Tiitellehe pilt: wikipedia</footer>
+
+--- .segue .dark .nobackground
 ## Recap
 
 ---
+## Signaalirajad
 
-## Valkude SH2/SH3 domäänid vahendavad Ras aktivatsiooni RTK-de poolt
-
-- türosiinkinaas retseptor-P $\rightarrow$ SH2-Shc-P $\rightarrow$ SH2-Grb2-SH3 $\rightarrow$ proline-rich-Sos $\rightarrow$ Ras
-- türosiinkinaas retseptor-P $\rightarrow$ SH2-Grb2-SH3 $\rightarrow$ proline-rich-Sos $\rightarrow$ Ras
-
-![](http://www.rndsystems.com/resources/images/5569.jpg)
-
----&twocol
-
-## Ras aktivatsioonil vabaneb tema '*effector loop*'
-
-***=left
-
-- **Receptacle for effectors** comprises the so-called 'SWITCH REGIONS', which are three short segments that border the nucleotide-binding site. 
-     - **P-loop** coordinates nucleotide binding, 
-     - **switch I and II** regions make up a mobile binding surface that conforms to the nature of a bound nucleotide
-
-***=right
-
-![](assets/img/rasloop.jpg)
-<footer class="source">doi:10.1038/nrm1229</footer>
-
----&twocol
-
-## Ras aktiveerib kolm põhilist signaalirada
-
-***=left
-
-Ras toimib läbi oma effektorite:
-
-- **Raf**
-- **fosfatidüülinositool 3 kinaas, PI3K**
-- **RalGDS (Ral GEF)**
-
-***=right
-
-![](assets/img/RasPI3K.jpg)
+Bla-bla
 
 --- .segue .dark .nobackground
+## Tuumor-suppressor geenid
 
-## Tuumorsupressorgeenid
+---&twocol
+## Vähi pärilikkus
+
+***=left
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Theodor_Boveri.jpg/800px-Theodor_Boveri.jpg" style="width:200px">
+
+Theodor Boveri (1862-1915), Saksa bioloog
+
+***=right
+- Töötas merisiiliku mudeliga
+- Kõik kromosoomid on vajalikud normaalseks embrüogeneesiks
+- Osad kromosoomid stimuleerivad rakkude jagunemist ja osad kromosoomid inhibeerivad
 
 ---
+## Tuumor-suppressor geenid
 
-## Nordling: *Multiple-hit hypothesis*
+- Lisaks onkogeenidele on vähiga seotud ka teine klass geene **tuumor-suppressor geenid**
+- TSG-de olemasolule viitasid rakkude fuseerimiseksperimendid, kui uuriti onkogeenide toimet 
+- TSG-g toimivad onkogeenidele vastupidiselt, kontrollides ja pidurdades onkogeenide funktsiooni
+- Normaalsetes rakkudes on onkogeenide ja tuumor-suppressorgeenide toime tasakaalus ja rakkude jagunemine toimub kontrollitult
 
-- Nordling, 1953: kui vähki põhjustab järestikuste mutatsioonide akumuleerumine raku DNA-s siis peab vähiteke olema epidemioloogiliselt seotud vanusega (vanuse astmega).
-    - **kahe mutatsiooni** korral on vähk lineaarselt vanusega seotud: $intsidents \sim vanus$, 
-    - **seitsme mutatsiooni** korral: $intsidents \sim vanus^{6}$ 
+![slow](assets/img/captain_slow.png)
+
+---
+## Rakkude fuseerimine
+
+- Rakkude fuseerumise võib indutseerida kasutades viiruseid või keemiliselt PEG-iga
+- Saadakse hübriidsed rakud e. sünsüütsiumid
+- Rakkude fuseerimist kasutati transformeerunud fenotüübi uurimiseks: vähirakke fuseeriti normaalsete rakkudega
+- Üllatuslikult, normaalsete ja vähirakkude fuseerumisel saadud hübriidsed rakud kaotasid tumorigeensuse!
+
+![syncytium](assets/img/fusion.png)
+
+---
+## Tumorigeenne fenotüüp on retsessiivne
+
+- Geeni mutantne alleel on metsik-tüüpi alleeli olemasolul retsessiivne,
+- Metsik tüüpi alleel hoiab rakus ära tumorigeense fenotüübi avaldumise, siis ka nimetus tuumor-suppressor geen
+- Tuumorsupressorgeeni funktsiooni kadu toimub rakus ainult selle geeni mõlema alleeli muteerumise läbi
+
+![evans](assets/img/evans_1982_2.png)
+
+---
+## Raku fuusion eksperimentide paradoks
+
+- Vähisündroomid (retinoblastoom, Li-Fraumeni, neurofibromatoos) on dominantse pärilikusega
+- Tuumor-suppressor geenid aga toimivad raku tasemel retsessiivselt
+
+---&twocol
+## Vähi seos elueaga
+
+***=left
+- Kui vähki põhjustab järestikuste mutatsioonide akumuleerumine raku DNA-s siis peab vähiteke olema epidemioloogiliselt seotud vanusega
+- Ühe mutatsiooni korral oleks kõigis vanustes inimestel vähi intsidents sama peale mingit vanust
+- Kahe mutatsiooni korral on vähk lineaarselt vanusega seotud: $intsidents \sim vanus$ 
+- Kolme mutatsiooni korral: $intsidents \sim vanus^{2}$ jne.
+
+***=right
 
 <img src="assets/img/Nordling1953.png" alt="A New Theory on the Cancer-inducing Mechanism" style="width: 400px;"/>
 
-<footer class="source">C. O. Nordling. A New Theory on the Cancer-inducing Mechanism. Br J Cancer. Mar 1953; 7(1): 68–72.</footer>
+- "..several successive mutations in the same cell, probabably about seven in the case of human cancer, would be necessary.."
 
+<footer class="source">C.O. Nordling. [A New Theory on the Cancer-inducing Mechanism](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2007872/?page=1). Br J Cancer. Mar 1953; 7(1): 68–72.</footer>
 
 ---&twocol
-
 ## Knudsoni hüpotees
 
 - Knudsoni hüpotees (*multiple-hit hypothesis*) oletas, et **vähk tekib mitme (vähemalt kahe) mutatsiooni akumuleerumisel raku DNA-s**.
@@ -138,18 +156,7 @@ Ras toimib läbi oma effektorite:
 
 <footer class="source">Foto:wikpedia.</footer>
 
----
-
-## Tumorigeenne fenotüüp on retsessiivne
-
-- 1980. tehtud katsetes leiti, et normaalsete ja vähirakkude fuseerumisel saadud hübriidsed rakud (*syncytium*) kaotasid tumorigeensuse.
-- Geeni mutantne alleel on metsik-tüüpi alleeli olemasolul retsessiivne,
-    - metsik tüüpi alleel hoiab rakus ära tumorigeense fenotüübi avaldumise, siis ka nimetus **tuumorsupressor geen**.
-- **Tuumorsupressorgeeni funktsiooni kadu toimub rakus ainult selle geeni mõlema alleeli muteerumise läbi**.
-
-
 ---&twocol
-
 ## Retinoblastoom
 
 - Retinoblastoom on lapseea vähisündroom mis tekib reetina fotoretseptorite ja ganglionite eellasrakkudes.
