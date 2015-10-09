@@ -1,8 +1,8 @@
 ---
-title       : Tuumorsupressor geenid
+title       : Tuumor-suppressor geenid
 subtitle    : Onkobioloogia
 author      : Taavi Päll
-job         : vanemteadur, VTAK
+job         : lektor, Tallinna Tehnikaülikool
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -20,8 +20,12 @@ img {
 </style>
 
 <style> .title-slide {
-  background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
-}
+  background-image:url(http://wiki.ggc.edu/images/3/30/Retinoblastoma_beggining_pic.jpg); 
+  background-repeat: no-repeat; 
+  background-position: 90% 25%; 
+  background-size: 45%; 
+  background-color: #FFFFFF
+  }
 
 .title-slide hgroup > h1{
  font-family: 'Oswald', 'Helvetica', sanserif; 
