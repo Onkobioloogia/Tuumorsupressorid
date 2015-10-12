@@ -140,7 +140,7 @@ Theodor Boveri (1862-1915), Saksa bioloog
 ## Raku fuusion eksperimentide paradoks
 
 - Vähisündroomid (retinoblastoom, Li-Fraumeni, neurofibromatoos) on dominantse pärilikusega: pärilikku vähi mutatsiooni kandvad indiviidid saavad peaaegu kindlasti vähi
-- Tuumor-suppressor geenid aga toimivad raku tasemel retsessiivselt: ühe alleli mutatsioon ei ole piisav raku transformeerumiseks
+- Tuumor-suppressor geenid aga toimivad raku tasemel retsessiivselt: ühe alleeli mutatsioon ei ole piisav raku transformeerumiseks
 
 ---&twocol
 ## Vähi seos elueaga
