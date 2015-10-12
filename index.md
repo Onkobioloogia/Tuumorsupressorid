@@ -548,7 +548,7 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 ***=left
 
-<img src="http://www.chem.ox.ac.uk/oc/cjschofield/images/new-2.png" alt="hif" style="width: 460px;"/>
+<img src="http://www.nature.com/nm/journal/v18/n1/images/nm.2631-F1.jpg" alt="hif" style="width: 460px;"/>
 
 ***=right
 
