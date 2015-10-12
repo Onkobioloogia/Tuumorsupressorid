@@ -94,7 +94,7 @@ Aktiveeritud Ras seotub ja aktiveerib oma effektorvalke:
 ## Tuumor-suppressor geenid
 
 ---&twocol
-## Vähi pärilikkus
+## Geenide osa vähis on kahesuunaline
 
 ***=left
 
