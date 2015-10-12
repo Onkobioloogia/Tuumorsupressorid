@@ -273,9 +273,7 @@ LOH-il on erinevaid mehhanisme:
 
 ***=right
 
-![loh](http://www.ubooks.pub/Books/B0/E10R1010/MAIN/images/image055.jpg)
-
-**LOH-e ühendavaks teguriks on nendega kaasnev oluliselt kõrgem risk neoplastiliseks transformatsiooniks**
+<img src="http://www.ubooks.pub/Books/B0/E10R1010/MAIN/images/image055.jpg" style="width:500px">
 
 
 ---&twocol
