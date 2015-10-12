@@ -66,9 +66,29 @@ strong {
 ## Recap
 
 ---
-## Signaalirajad
+## Ras aktivatsioon RTK poolt on vahendatud üle fosfo-türosiini siduvate adaptervalkude
 
-Bla-bla
+- türosiinkinaas retseptor-P $\rightarrow$ SH2-Shc-P $\rightarrow$ SH2-Grb2-SH3 $\rightarrow$ proline-rich-Sos $\rightarrow$ Ras
+- türosiinkinaas retseptor-P $\rightarrow$ SH2-Grb2-SH3 $\rightarrow$ proline-rich-Sos $\rightarrow$ Ras
+
+![trkRas](http://www.nature.com/nrm/journal/v13/n1/images/nrm3255-f1.jpg)
+
+---&twocol
+## Ras aktiveerib kolm põhilist signaalirada
+
+***=left
+
+Aktiveeritud Ras seotub ja aktiveerib oma effektorvalke:
+- **Raf kinaas**
+- **Fosfatidüülinositool 3 kinaas, PI3K**
+- **RalGDS (Ral GEF)**
+
+
+![](http://ars.els-cdn.com/content/image/1-s2.0-S1535610814000816-gr1.jpg)
+
+***=right
+
+![](assets/img/RasPI3K.jpg)
 
 --- .segue .dark .nobackground
 ## Tuumor-suppressor geenid
@@ -119,8 +139,8 @@ Theodor Boveri (1862-1915), Saksa bioloog
 ---
 ## Raku fuusion eksperimentide paradoks
 
-- Vähisündroomid (retinoblastoom, Li-Fraumeni, neurofibromatoos) on dominantse pärilikusega
-- Tuumor-suppressor geenid aga toimivad raku tasemel retsessiivselt
+- Vähisündroomid (retinoblastoom, Li-Fraumeni, neurofibromatoos) on dominantse pärilikusega: pärilikku vähi mutatsiooni kandvad indiviidid saavad peaaegu kindlasti vähi
+- Tuumor-suppressor geenid aga toimivad raku tasemel retsessiivselt: ühe alleli mutatsioon ei ole piisav raku transformeerumiseks
 
 ---&twocol
 ## Vähi seos elueaga
@@ -158,7 +178,6 @@ Theodor Boveri (1862-1915), Saksa bioloog
 
 ---&twocol
 ## Retinoblastoom
-
 - Retinoblastoom on lapseea vähisündroom mis tekib reetina fotoretseptorite ja ganglionite eellasrakkudes.
 - Intsidents üks juht 15000 kuni 20000 sünni kohta.
 - Arenenud maades keskmine iga diagnoosil 27 kuud unilateraalse vormi korral ja 15 kuud bilateraalse vormi korral.
@@ -177,39 +196,42 @@ Theodor Boveri (1862-1915), Saksa bioloog
 - 50 aastat peale retinoblastoomi diagnoosi ja ravi avastatakse 36% päriliku Rb patsientidest mõni teine kasvaja, samas sporaadilise Rb patsientidest ainult 5.7%. 
 
 ---
-
 ## Knudson: *Statistical Study of Retinoblastoma*
 
 - Tõenäosus, et pärilikku mutatsiooni kandev reetinarakk moodustab kasvaja:
     - $\frac{2\times10^{-6} ganglionirakku \times 2 silma}{3 kasvajat/patsient} = 0.75\times10^-6$
 - Arvestades, et enamus retinoblastoome tekib esimese 2 eluaasta jooksul, siis ühe mutatsiooni tõenäosus ca $2\times10^{-7}$
-- Bilateraalsed: pärilikud (piisab ühest mutatsioonist)
-- Unilateraalsed: sporaadilised (kaks mutatsiooni)
+
+# Distribution of retinoblastoma cases by type and laterality
+RB Type |Bilateral	| Unilateral	| Total
+---|----------|-------------|------
+Hereditary|	25%–30%	|10%–15%	|35%–45%
+Nonhereditary|	0	|55%–65%|	55%–65%
+Total|	25%–30%	|70%–75%	|100%
+
 
 ---&twocol
-
 ## Retinoblastoomide tekke kineetika
 
 ***=left
 
-<img src="assets/img/Knudson_Rb.png" alt="A New Theory on the Cancer-inducing Mechanism" style="width: 200px;"/>
+<img src="assets/img/Knudson_Rb.png" alt="A New Theory on the Cancer-inducing Mechanism" style="width: 400px;"/>
 
 
 ***=right
 
-- Bilateraalsed retinoblastoomid tekivad ühe mutatsiooni (esimese järgu) kineetika järgi $e^{-kt}$
-- Unilateraalsed tekivad kahe mutatsiooni (teise järgu) kineetika järgi $e^{-kt^{2}}$
+- Bilateraalsed retinoblastoomid tekivad ühe mutatsiooni (esimese järgu) kineetika järgi
+- Unilateraalsed tekivad kahe mutatsiooni (teise järgu) kineetika järgi
 
 <footer class="source">Alfred G. Knudson, Jr. Mutation and Cancer: Statistical Study of Retinoblastoma. Proc Natl Acad Sci U S A. Apr 1971; 68(4): 820–823.</footer>
 
 ---&twocol
-
 ## Geeni mõlema alleeli muteerumine on väga ebatõenäoline
 
 ***=left
 
 - Retinoblastoomi puhul ühe mutatsiooni tõenäosus geenis $2\times10^{-7}$
-- Mõlema alleeli muteerumise tõenäosus $10^{-14}$
+- Mõlema alleeli muteerumise tõenäosus on seega $10^{-14}$
 - Kuidas siis retinoblastoomid tekkida saavad? Välk ju ei löö ometi kunagi teist korda samasse kohta...
 
 ***=right
@@ -219,19 +241,24 @@ Theodor Boveri (1862-1915), Saksa bioloog
 <footer class="source">Pilt: wikimedia.</footer>
 
 ---
+## RB teise alleeli mitootiline rekombinatsioon
 
+- Mitootilise rekombinatsiooni tõenäosus on paar suurusjärku kõrgem kui mutatsioonil
+
+![rb](http://wiki.ggc.edu/images/3/30/Retinoblastoma_beggining_pic.jpg)
+
+---
 ## TSG mutatsioonid
 
 - Mehhanismid mis viivad tuumorsupressorgeeni ühe alleeli 'välja lülitamiseni' on 
-    - **mutatsioonid** ja 
-    - **promootori metülatsioon**.
+    - mutatsioonid ja 
+    - promootori metülatsioon
 - Ühe geenikoopia kadumisele võib järgneda teise alleeli kadu, mis toimub 
-    - teise mehhanismiga kui *de novo* mutatsioonid või metülatsioon ja viib **heterosügootsuse kadumiseni** selles lookuses.
-- **Heterosügootsuse kadumine (LOH)** jätab TSG lookusesse kaks mittefunktsionaalset alleeli.
-- LOH on märksa sagedasem kui mutatsioonid või metülatsioon.
+    - teise mehhanismiga kui de novo mutatsioonid või metülatsioon ja viib heterosügootsuse kadumiseni selles lookuses
+- **Heterosügootsuse kadumine (LOH)** jätab TSG lookusesse kaks mittefunktsionaalset alleeli
+- LOH on märksa sagedasem kui mutatsioonid või metülatsioon
 
 ---&twocol
-
 ## LOH - heterosügootsuse kadu (loss of heterozygosity)
 
 LOH on kromosomaalne muutus milles läheb vahetusse või kaduma geeni lookus ja seda ümbritsev piirkond.
@@ -239,27 +266,26 @@ LOH on kromosomaalne muutus milles läheb vahetusse või kaduma geeni lookus ja 
 ***=left
 
 LOH-il on erinevaid mehhanisme:
-- Mitootiline rekombinatsioon,
-- Lookuse deletsioon, 
-- Defektne kromosoomide segregatsioon (*nondisjunction* - õdekromatiidid ei lahkne), 
-- Geenikonversioon.
+- Mitootiline rekombinatsioon
+- Lookuse deletsioon
+- Defektne kromosoomide segregatsioon (*nondisjunction* - õdekromatiidid ei lahkne) 
+- Geenikonversioon
 
 ***=right
 
 ![loh](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgsRRYH9H6RZfR5--4Ylij1Ybgxi-pupeGp0GdkOQ9OuHgI618)
 
-**LOH-e ühendavaks teguriks on nendega kaasnev oluliselt kõrgem risk neoplastiliseks transformatsiooniks**.
+**LOH-e ühendavaks teguriks on nendega kaasnev oluliselt kõrgem risk neoplastiliseks transformatsiooniks**
 
 
 ---&twocol
-
 ## Mitootiline rekombinatsioon
 
 ***=right
 
-- Toimub rakutükli G2/M faasis.
-- Rekombineeruvad mitte-õdekromosoomid.
-- Tekivad homosügootsed rakud heterosügootses organismis.
+- Toimub rakutükli G2/M faasis
+- Rekombineeruvad mitte-õdekromosoomid
+- Tekivad homosügootsed rakud heterosügootses organismis
 
 ***=left
 
@@ -269,21 +295,17 @@ LOH-il on erinevaid mehhanisme:
 
 
 ---
-
 ## LOH ja Rb
 
-- Lisaks lapseea retinoblastoomile on Rb funktsioon on sagedasti kadunud ka hiljem erinevat päritolu kasvajates.
-- Üks Rb alleel on tavaliselt juba päriliku või varajase somaatilise mutatsiooni tõttu inaktiivne.
-- Heterosügootsuse kadu/LOH vastutab Rb geeni teise alleeli inaktiveerimise eest. 
-- 13q LOH on tavaline kromosomaalne muutus põie, kopsu, rinnanäärme, pea- ja kaela ning teiste organite vähkides.
+- Lisaks lapseea retinoblastoomile on Rb funktsioon on sagedasti kadunud ka hiljem erinevat päritolu kasvajates
+- 13q LOH on tavaline kromosomaalne muutus põie, kopsu, rinnanäärme, pea- ja kaela ning teiste organite vähkides
 
 ![rbloh](http://atlasgeneticsoncology.org/Anomalies/Images/13del13qMaG.jpg)
 
 <footer class="source">Pilt:atlasgeneticsoncology.org</footer>
 
 --- .outfont
-
-# Sage ja korduv kromosoomi lookuse *LOH-event* viitab võimalikule tuumorsupressorgeenile. 4934 vähki *The Cancer Genome Atlas Pan-Cancer* andmetest.
+# Sage ja korduv kromosoomi lookuse *LOH-event* viitab võimalikule TSG-le
 
 Genoomi piirk.|Geene piirk.|Märklaud|Sagedasti muteerunud geen = p.value | Funktsioon 
 --------------|------------|--------|------------------------------------|-------
@@ -303,18 +325,16 @@ Genoomi piirk.|Geene piirk.|Märklaud|Sagedasti muteerunud geen = p.value | Funk
 
 
 ---
-
 ## Vähki genoomi mutatsioonide 'hotspotid'
 
-- Determining how somatic copy number alterations (SCNAs) promote cancer is an important goal. We characterized SCNA patterns in 4,934 cancers from The Cancer Genome Atlas Pan-Cancer data set.
+- Determining how somatic copy number alterations (SCNAs) promote cancer is an important goal. We characterized SCNA patterns in 4,934 cancers from The Cancer Genome Atlas Pan-Cancer data set
 
 - [Vähkides sagedasti deleteerunud genoomipiirkonnad](http://rpubs.com/tapa741/tuumorsupressorgeenid)
 
 - Pan-cancer patterns of somatic copy number alteration. Travis I Zack, Steven E Schumacher, Scott L Carter, Andrew D Cherniack, Gordon Saksena, Barbara Tabak, Michael S Lawrence, Cheng-Zhong Zhang, Jeremiah Wala, Craig H Mermel, Carrie Sougnez, Stacey B Gabriel, Bryan Hernandez, Hui Shen, Peter W Laird, Gad Getz, Matthew Meyerson & Rameen Beroukhim. Nature Genetics 45, 1134–1140 (2013) doi:10.1038/ng.2760
 
 ---
-
-# Paljud tuumorsuppressorgeenid seotud pärilike vähisündroomidega
+# Paljud TSG-d seotud pärilike vähisündroomidega
 
 Genoomi piirkond | Geen | Pärilik sündroom | Sporaadiline vähk | Funktsioon
 -----------------|------|------------------|-------------------|-----------
@@ -329,13 +349,12 @@ Genoomi piirkond | Geen | Pärilik sündroom | Sporaadiline vähk | Funktsioon
 18q21.2|**SMAD4**| juveniilne polüpoos | käärsool, kõhunääre | TGF-$\beta$ TF
 
 ---&twocol
-
 ## TSG: *gatekeepers* ja  *caretakers*
 
 TSG-g võib funktsiooni alusel jagada '(värava)valvuriteks' ja 'hooldajateks'.
 
 - 'Valvurid' on seotud rakutsükli kontrolliga nt. p16INK4a (CDKN2A), RB, p27Kip1 (CDKN1B), PTEN
-- 'Hooldajad' on seotud kromatiini kontrolli ja genoomi terviklikkuse tagamisega nt. ARID1A, MLL3, BRCA1.
+- 'Hooldajad' on seotud kromatiini kontrolli ja genoomi terviklikkuse tagamisega nt. ARID1A, MLL3, BRCA1
 
 
 ***=left
@@ -350,20 +369,19 @@ TSG-g võib funktsiooni alusel jagada '(värava)valvuriteks' ja 'hooldajateks'.
 
 
 ---
-
 ## DNA metülatsioon
 
-DNA metülatsioon on üks geeni vaigistamise mehhanism.
-- Vähis metüleeritakse normaalselt mitte-metüleeritud CpG rikkad alad tuumorsupressorgeeni promootor alas.
-- Sellist metülatsiooni viivad läbi DNA metülaasid.
-- DNA hüpermetülatsiooniga CpG-rikates alades kaasneb nukleosoomide asetsemine transkriptsiooni algusunktis, mis on seotud  vaigistatud geenidega.
-- Sagedased metüleeritud TSG on **Von Hippel–Lindau (VHL)** neerukasvajates ja **CDKN2A**. 
+DNA metülatsioon on üks geeni vaigistamise mehhanism
+- Vähis metüleeritakse normaalselt mitte-metüleeritud CpG rikkad alad tuumorsupressorgeeni promootor alas
+- Sellist metülatsiooni viivad läbi DNA metülaasid
+- DNA hüpermetülatsiooniga CpG-rikates alades kaasneb nukleosoomide asetsemine transkriptsiooni algusunktis, mis on seotud  vaigistatud geenidega
+- Sagedased metüleeritud TSG on **Von Hippel–Lindau (VHL)** neerukasvajates ja **CDKN2A**.
 
 ![dnmt](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307543/bin/nihms358721f2.jpg)
 
 --- .codefont &twocol
-
 ## DNA hüpermetülatsioon vähis
+
 # Geenide **hüpermetülatsioon vähis** ei ole totaalne üle terve kromosoomi/regiooni, vaid **toimub geenispetsiifiliselt**.
 
 ***=left
@@ -389,17 +407,15 @@ Metülatsioon on geenispetsiifiline
 <footer class="source">Manel Esteller, Paul G. Corn, Stephen B. Baylin, and James G. Herman. A Gene Hypermethylation Profile of Human Cancer. Cancer Res April 15, 2001 61; 3225</footer>
 
 ---
-
 ## NF1 on dominantselt päranduv geneetiline haigus
 
-- NF1, esmaskirjeldus Fredrich von Recklinghauseni poolt 1882, on perekondlik **vähisündroom** esinemissagedusega 1 inimesel 3500.
-- Kuna **NF1 patsientidel esinevad pärilikud deletsioonid ja teised *loss-of-function* mutatsioonid**, siis klassifitseerub NF1 tuumorsupressorgeeniks. 
-- Pooltel NF1 patsientidest on perekondlik haigus ja pooled on pärinud *de novo* mutatsiooni. 
-- Seega on NF1 lookus inimese genoomis mutatsiooniline *hotspot*-i. 
-- Kooskõlas klassikalise tuumorsupressorgeeni stsenaariumiga, on NF1 patsientidel jälgitav metsik-tüüpi alleeli kadumine LOH-i või *second-hit* somaatilise mutatsiooni teel.
+- NF1, esmaskirjeldus Fredrich von Recklinghauseni poolt 1882, on perekondlik **vähisündroom** esinemissagedusega 1 inimesel 3500
+- Kuna **NF1 patsientidel esinevad pärilikud deletsioonid ja teised *loss-of-function* mutatsioonid**, siis klassifitseerub NF1 tuumorsupressorgeeniks
+- Pooltel NF1 patsientidest on perekondlik haigus ja pooled on pärinud *de novo* mutatsiooni
+- Seega on NF1 lookus inimese genoomis mutatsiooniline *hotspot*-i
+- Kooskõlas klassikalise tuumorsupressorgeeni stsenaariumiga, on NF1 patsientidel jälgitav metsik-tüüpi alleeli kadumine LOH-i või *second-hit* somaatilise mutatsiooni teel
 
 ---
-
 # NF1 sümptomid
 
 Sümptom  | Rakud | Arenguline päritolu
@@ -421,7 +437,6 @@ glioblastoom | astrotsüüdid	| neuraaltoru
 <footer class="source">Tabel:doi:10.1016/S0092-8674(01)00245-8</footer>
 
 ---
-
 ## *'Cafe-au-lait'* laigud
 
 ![cafe](http://nfcenter.wustl.edu/wp-content/uploads/2010/09/0821172c2a45.jpg)
@@ -429,23 +444,20 @@ glioblastoom | astrotsüüdid	| neuraaltoru
 <footer class="source">Pilt:http://nfcenter.wustl.edu/</footer>
 
 ---
-
 ## NF1 vastutab neurofibromatoos I tekke eest
 
-- NF1 patsientidel on eelsoodumus erinevate vähivormide tekkele, peamiselt perifeerses- ja kesknärvisüsteemis.
-- Patsientidel esineb ka kognitiivseid defekte ja teisi vähiga mitte seotud sümptomeid, mis puudutavad sagedasti neuraalharjast pärit kudesid väljaspool PNS-i.
+- NF1 patsientidel on eelsoodumus erinevate vähivormide tekkele, peamiselt perifeerses- ja kesknärvisüsteemis
+- Patsientidel esineb ka kognitiivseid defekte ja teisi vähiga mitte seotud sümptomeid, mis puudutavad sagedasti neuraalharjast pärit kudesid väljaspool PNS-i
 - Iseloomulik kliiniline tunnus on perifeerse närvi vähk **neurofibroom**.
 - 5-10% NF1 patsientidel areneb välja **invasiivne pleksiformne neurofibroom (MPNST)**.
-- Lisaks on NF1 patsientidel kõrgenenud risk saada astrotsütoome, feokromotsütoome (*pheochromocytoma*) ja müeloid leukeemiaid.
+- Lisaks on NF1 patsientidel kõrgenenud risk saada astrotsütoome, feokromotsütoome (*pheochromocytoma*) ja müeloid leukeemiaid
 
 ---
-
 ## NF1 on RasGAP
 
 ![nf1](http://ars.els-cdn.com/content/image/1-s2.0-S0092867401002458-gr1.jpg)
 
 ---&twocol
-
 ## Normaalne perifeerne närv ja neurofibroomi areng
 
 ***=left
@@ -454,24 +466,22 @@ glioblastoom | astrotsüüdid	| neuraaltoru
 
 ***=right
 
-- Perifeerne närv koosneb neuronitest, Schwanni rakkudest, perineuraalrakkudest, fibroblastidest ja sisaldab ka nuumrakke.
-- **Neurofibroomides on kõiki närvi rakutüüpe rohkem**. Lisaks on Schwanni rakud dissotseerunud neuronitest ja perineurium on lagunenud.
-- Neurofibroomi areng saab alguse teiseset mutatsioonist või LOH-ist Schwanni rakkudes. Schwanni rakkude transformeerumine põhjustab muutused ka teistes rakutüüpides, tingituna siis sõltvusest Schwanni rakkudest või haplopuudulikkusest.
+- Perifeerne närv koosneb neuronitest, Schwanni rakkudest, perineuraalrakkudest, fibroblastidest ja sisaldab ka nuumrakke
+- **Neurofibroomides on kõiki närvi rakutüüpe rohkem**. Lisaks on Schwanni rakud dissotseerunud neuronitest ja perineurium on lagunenud
+- Neurofibroomi areng saab alguse teiseset mutatsioonist või LOH-ist Schwanni rakkudes. Schwanni rakkude transformeerumine põhjustab muutused ka teistes rakutüüpides, tingituna siis sõltvusest Schwanni rakkudest või haplopuudulikkusest
 
 ---
-
 ## APC, perekondlik *adenomatous polyposis coli*
 
-- Perekondlikku/pärilikku *adenomatous polyposis coli* (FAP) vormi iseloomustab rohke polüüpide teke sooles.
-- APC geen on muteerunud umbes 60% sporaadilistes kartsinoomides ja adenoomides.
-- APC on multidomäänne valk mis seostub mitmete teiste valkudega, nagu β-kateniin, aksiin (*axin*), mikrotuubulid ja tsütoskeleti regulaatoreid EB1 (*end binding 1*) ja IQGAP1,  Asef1 (Rac GEF).
-- Enamus (~60%) APC vähimutatsioone asuvad geenis piirkonnas mida nimetatakse '*mutation cluster region (MCR)*' ning põhjustavad valgus C-terminaalse deletsiooni.
-- C-terminaalse deletsiooni tagajärjel kaotab APC võime siduda β-kateniini ja MT.
-- β-kateniini või mikrotuubulite sidumine on essentsiaalne tuumorsupressor aktiivsuse seisukohalt.
-- Selle APC funktsiooni kadumine põhjustab β-kateniini akumuleerumise tuumas, kus ta toimib TF-ina kompleksis koos TCF (*T-cell factor*) ja LEF (*lymphoid enhancer factor*) transkriptsioonifaktoritega.
+- Perekondlikku/pärilikku *adenomatous polyposis coli* (FAP) vormi iseloomustab rohke polüüpide teke sooles
+- APC geen on muteerunud umbes 60% sporaadilistes kartsinoomides ja adenoomides
+- APC on multidomäänne valk mis seostub mitmete teiste valkudega, nagu β-kateniin, aksiin (*axin*), mikrotuubulid ja tsütoskeleti regulaatoreid EB1 (*end binding 1*) ja IQGAP1,  Asef1 (Rac GEF)
+- Enamus (~60%) APC vähimutatsioone asuvad geenis piirkonnas mida nimetatakse '*mutation cluster region (MCR)*' ning põhjustavad valgus C-terminaalse deletsiooni
+- C-terminaalse deletsiooni tagajärjel kaotab APC võime siduda β-kateniini ja MT
+- β-kateniini või mikrotuubulite sidumine on essentsiaalne tuumorsupressor aktiivsuse seisukohalt
+- Selle APC funktsiooni kadumine põhjustab β-kateniini akumuleerumise tuumas, kus ta toimib TF-ina kompleksis koos TCF (*T-cell factor*) ja LEF (*lymphoid enhancer factor*) transkriptsioonifaktoritega
 
 ---
-
 # APC funktsioone
 
 Rakuline protsess | wild-type APC toime |	APC geeni deleteerumise või valgu trunkeerumise toime	| APC domäänid	| APC funktsioonid	| Seostuvad valgud	
@@ -485,7 +495,6 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 
 --- &twocol
-
 ## APC domäänide funktsioonid ja soolevähi deletsioonid
 
 ***=right
@@ -494,8 +503,8 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 ***=left
 
-- Kanoonilise Wnt signaaliraja liigne aktivatsioon mängib põhilist rolli APC mutatsioonide poolt põhustatud soolevähi tekkes. 
-- Lisaks on APC-l ouline roll rakkude migratsioonis, adhesioonis ja mitoosis.
+- Kanoonilise Wnt signaaliraja liigne aktivatsioon mängib põhilist rolli APC mutatsioonide poolt põhustatud soolevähi tekkes
+- Lisaks on APC-l ouline roll rakkude migratsioonis, adhesioonis ja mitoosis
 
 
 ---&twocol
@@ -511,26 +520,24 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 
 ---
-
 ## von Hippel-Lindau tuumorsupressorgeen ja neeruvähk
 
-- von Hippel-Lindau tuumorsupressorgeen (VHL), kromosoomis 3p25, on muteerunud või vaigistatud >50% sporaadilistes selgerakulistes neeruvähkides (*clear cell renal cell carcinomas, CCRCC*).
-- Pärilikud VHL mutatsioonid põhjustavad sündroomi mida iseloomustab kõrgenenud risk saada veresoonevähk (hemangioblastoom) või *RCC*.
-- VHL inaktivatsioon põhjustab premaliigsete neerutsüstide tekke. Tsüstide arenemise kartsinoomideks põhustab ilmselt lisamutatsioonide akumuleerumine. 
+- von Hippel-Lindau tuumorsupressorgeen (VHL), kromosoomis 3p25, on muteerunud või vaigistatud >50% sporaadilistes selgerakulistes neeruvähkides (*clear cell renal cell carcinomas, CCRCC*)
+- Pärilikud VHL mutatsioonid põhjustavad sündroomi mida iseloomustab kõrgenenud risk saada veresoonevähk (hemangioblastoom) või *RCC*
+- VHL inaktivatsioon põhjustab premaliigsete neerutsüstide tekke. Tsüstide arenemise kartsinoomideks põhustab ilmselt lisamutatsioonide akumuleerumine
 - VHL geenilt kodeeritav valk **pVHL** on funktsioonilt E3 ubiquitiin ligaasi substraati ära tundev subühik, 
-- pVHL saadab piisava hapniku olemasolul keskkonnas (normoksia) proteasoomsele lagundamisele HIF transkriptsioonifaktori (*hypoxia-inducible factor*).
+- pVHL saadab piisava hapniku olemasolul keskkonnas (normoksia) proteasoomsele lagundamisele HIF transkriptsioonifaktori (*hypoxia-inducible factor*)
 
 ---&twocol
-
 ## pVHL määrab HIF valgu lagundamise 
 
 ***=left
 
-- pVHL osaleb stabiilses ubikvitiin ligaasi kompleksis koos valkudega elongin B, elongin C, Cul2, and Rbx1.
-- pVHL märklaudadeks on HIF-$\alpha$ perekonna valgud HIF-1$\alpha$, HIF-2$\alpha$ ja HIF-3$\alpha$.
-- HIF-$\alpha$ valgud on muidu väga ebastabiilsed, välja arvatud madala hapniku tingimustes. 
-- Normaalse hapniku tingimustes HIF valgud hüdroksüleeritakse konserveerunud proliinijääkidel. Seda reaktsiooni viivad läbi prolüül hüdroksülaasid (EGLN perek. valgud).
-- Proliin-hüdroksüleeritud HIF seostub pVHL-ile ja ubikvitineeritakse.
+- pVHL osaleb stabiilses ubikvitiin ligaasi kompleksis koos valkudega elongin B, elongin C, Cul2, and Rbx1
+- pVHL märklaudadeks on HIF-$\alpha$ perekonna valgud HIF-1$\alpha$, HIF-2$\alpha$ ja HIF-3$\alpha$
+- HIF-$\alpha$ valgud on muidu väga ebastabiilsed, välja arvatud madala hapniku tingimustes
+- Normaalse hapniku tingimustes HIF valgud hüdroksüleeritakse konserveerunud proliinijääkidel. Seda reaktsiooni viivad läbi prolüül hüdroksülaasid (EGLN perek. valgud)
+- Proliin-hüdroksüleeritud HIF seostub pVHL-ile ja ubikvitineeritakse
 
 ***=right
 
@@ -539,7 +546,6 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 <footer class="source">Pilt:openi.nlm.nih.gov</footer>
 
 ---&twocol
-
 ## HIF on transkriptsioonifaktor
 
 ***=left
@@ -550,18 +556,17 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 - Rakkudes kus puudub funktsionaalne pVHL, või madala hapniku tingimustes, toimub HIF akumuleerumine 
 - HIF käivitub terve rea hüpoksia adaptatsiooniga seotud geenide transkriptsiooni.
-- HIF märklaudgeenid on seotud glükoosi metabolismi ja transpordiga (Glut1, glükolüütilised ensüümid), rakuvälise pH regulatsiooniga (*carbonic anhydrase IX*), angiogeneesiga (VEGF), erütropoeesiga (EPO) ja mitogeenid (TGF-$\alpha$, PDGF-B).
-- Katseliselt on näidatud, et HIF-2$\alpha$ alla regulatsioon on vajalik ja piisav, et pVHL supresseeriks neeruvähki.
+- HIF märklaudgeenid on seotud glükoosi metabolismi ja transpordiga (Glut1, glükolüütilised ensüümid), rakuvälise pH regulatsiooniga (*carbonic anhydrase IX*), angiogeneesiga (VEGF), erütropoeesiga (EPO) ja mitogeenid (TGF-$\alpha$, PDGF-B)
+- Katseliselt on näidatud, et HIF-2$\alpha$ alla regulatsioon on vajalik ja piisav, et pVHL supresseeriks neeruvähki
 
 <footer class="source">Pilt:openi.nlm.nih.gov</footer>
 
 ---
-
 ## Viiteid
 
-- NF1 Tumor Suppressor Gene Function: Narrowing the GAP. Karen Cichowski, Tyler Jacks. Cell Vol 104, Issue 4, 23 Feb 2001, 593–604. DOI: 10.1016/S0092-8674(01)00245-8.
-- Adenomatous polyposis coli (APC): a multi-functional tumor suppressor gene. Koji Aoki and Makoto M. Taketo. J Cell Sci October 1, 2007, 120, 3327-3335. doi: 10.1242/jcs.03485.
-- The Von Hippel-Lindau Tumor Suppressor Gene and Kidney Cancer. William G. Kaelin, Jr. Clin Cancer Res September 15, 2004 10; 6290S. doi:10.1158/1078-0432.CCR-sup-040025.
+- NF1 Tumor Suppressor Gene Function: Narrowing the GAP. Karen Cichowski, Tyler Jacks. Cell Vol 104, Issue 4, 23 Feb 2001, 593–604. DOI: 10.1016/S0092-8674(01)00245-8
+- Adenomatous polyposis coli (APC): a multi-functional tumor suppressor gene. Koji Aoki and Makoto M. Taketo. J Cell Sci October 1, 2007, 120, 3327-3335. doi: 10.1242/jcs.03485
+- The Von Hippel-Lindau Tumor Suppressor Gene and Kidney Cancer. William G. Kaelin, Jr. Clin Cancer Res September 15, 2004 10; 6290S. doi:10.1158/1078-0432.CCR-sup-040025
 
 --- .segue .dark .nobackground
 
@@ -571,8 +576,8 @@ kromosoomide lahknemine | korrektne lahknemine	| segregatsioonidefektid (kadu)	|
 
 ***=left 
 
-- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
-- [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
+- [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus)
+- [Vähitüübid](http://tpall.github.io/Vahityybid)
 - [Onkoviirused](http://tpall.github.io/Onkoviirused)
 - [Onkogeenid](http://tpall.github.io/Onkogeenid)
 - [Retseptorid](http://tpall.github.io/Retseptorid)
