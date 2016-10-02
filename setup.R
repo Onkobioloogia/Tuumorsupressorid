@@ -8,4 +8,4 @@ library(slidifyLibraries)
 slidify("index.Rmd")
 # browseURL("index.html")
 # tee githubis sama nimega tühi repo enne publitseerimist
-publish(repo="Tuumorsupressorid", user="tpall")
+# publish(repo="Tuumorsupressorid", user="tpall")

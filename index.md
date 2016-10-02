@@ -241,9 +241,9 @@ Total|	25%–30%	|70%–75%	|100%
 <footer class="source">Pilt: wikimedia.</footer>
 
 ---
-## RB teise alleeli mitootiline rekombinatsioon
+## RB teise alleeli mitootiline krossingover
 
-- Mitootilise rekombinatsiooni tõenäosus on paar suurusjärku kõrgem kui mutatsioonil
+- Mitootilise krossingoveri tõenäosus on paar suurusjärku kõrgem kui mutatsioonil
 
 ![rb](http://wiki.ggc.edu/images/3/30/Retinoblastoma_beggining_pic.jpg)
 
