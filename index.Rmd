@@ -225,6 +225,9 @@ Total|	25%–30%	|70%–75%	|100%
 
 <footer class="source">Alfred G. Knudson, Jr. Mutation and Cancer: Statistical Study of Retinoblastoma. Proc Natl Acad Sci U S A. Apr 1971; 68(4): 820–823.</footer>
 
+--- .segue .dark .nobackground
+## Tuumor-supressorgeenide väljalülitumise mehhanismid
+
 ---&twocol
 ## Geeni mõlema alleeli muteerumine on väga ebatõenäoline
 
