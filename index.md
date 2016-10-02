@@ -103,6 +103,7 @@ Aktiveeritud Ras seotub ja aktiveerib oma effektorvalke:
 Theodor Boveri (1862-1915), Saksa bioloog
 
 ***=right
+
 - Töötas merisiiliku mudeliga.
 - Leidis, et kõik kromosoomid on vajalikud normaalseks embrüogeneesiks.
 - Osad kromosoomid stimuleerivad rakkude jagunemist ja osad kromosoomid inhibeerivad.
@@ -111,7 +112,6 @@ Theodor Boveri (1862-1915), Saksa bioloog
 ## Tuumor-supressorgeenid
 
 - Lisaks onkogeenidele on vähiga seotud ka teine klass geene **tuumor-supressorgeenid** (TSG)
-- TSG-de olemasolule viitasid rakkude fuseerimiseksperimendid, kui uuriti onkogeenide toimet 
 - TSG-g toimivad onkogeenidele vastupidiselt, kontrollides ja pidurdades onkogeenide funktsiooni
 - Normaalsetes rakkudes on onkogeenide ja tuumor-suppressorgeenide toime tasakaalus ja rakkude jagunemine toimub kontrollitult
 
@@ -119,6 +119,7 @@ Theodor Boveri (1862-1915), Saksa bioloog
 
 ---
 ## Rakkude fuseerimine ja tumorigeenne fenotüüp
+Rakkude fuseerimiseksperimendid viitasid TSG-dele
 
 - Rakkude fuseerumise võib indutseerida kasutades viiruseid või keemiliselt PEG-iga
 - Saadakse hübriidsed rakud e. sünsüütsiumid
