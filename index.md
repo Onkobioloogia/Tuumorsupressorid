@@ -370,7 +370,7 @@ TSG-g võib funktsiooni alusel jagada '(värava)valvuriteks' ja 'hooldajateks'.
 ## DNA metülatsioon
 
 DNA metülatsioon on üks geeni vaigistamise mehhanism
-- Vähis metüleeritakse normaalselt mitte-metüleeritud CpG rikkad alad tuumorsupressorgeeni promootor alas
+- Vähis metüleeritakse normaalselt mitte-metüleeritud CpG rikkad alad tuumor-supressorgeeni promootoralas
 - Sellist *de novo* metülatsiooni viivad läbi DNA metülaasid
 - DNA hüpermetülatsiooniga CpG-rikates alades kaasneb nukleosoomide asetsemine transkriptsiooni alguspunktis, mis on seotud  vaigistatud geenidega
 - Sagedased metüleeritud TSG on **Von Hippel–Lindau (VHL)** neerukasvajates ja **CDKN2A**.
