@@ -254,7 +254,7 @@ Total|	25%–30%	|70%–75%	|100%
     - mutatsioonid ja 
     - promootori metülatsioon
 - Ühe geenikoopia kadumisele võib järgneda teise alleeli kadu, mis toimub 
-    - teise mehhanismiga kui de novo mutatsioonid või metülatsioon ja viib heterosügootsuse kadumiseni selles lookuses
+    - teise mehhanismiga kui _de novo_ mutatsioonid või metülatsioon ja viib heterosügootsuse kadumiseni selles lookuses
 - **Heterosügootsuse kadumine (LOH)** jätab TSG lookusesse kaks mittefunktsionaalset alleeli
 - LOH on märksa sagedasem kui mutatsioonid või metülatsioon
 
@@ -266,10 +266,10 @@ LOH on kromosomaalne muutus milles läheb vahetusse või kaduma geeni lookus ja 
 ***=left
 
 LOH-il on erinevaid mehhanisme:
-- Mitootiline rekombinatsioon
+- Mitootiline krossingover
 - Lookuse deletsioon
-- Defektne kromosoomide segregatsioon (*nondisjunction* - õdekromatiidid ei lahkne) 
-- Geenikonversioon
+- Defektne kromosoomide segregatsioon (*nondisjunction* - õdekromatiidid ei lahkne) ja ühest rakust läheb kr kaduma
+- Geenikonversioon, wt alleel parandatakse valeks 
 
 ***=right
 
