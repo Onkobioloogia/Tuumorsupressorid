@@ -324,15 +324,48 @@ Genoomi piirk.|Geene piirk.|Märklaud|Sagedasti muteerunud geen = p.value | Funk
 12p13.1|5|CDKN1B|**CDKN1B** = 2.2e-06 | CDK inhibiitor
 18q21.2|3|**SMAD4**|SMAD4 = 6.6e-15 | transkriptsioonifaktor
 
-
 ---
-## Vähki genoomi mutatsioonide 'hotspotid'
+## Vähi genoomi mutatsioonide 'hotspotid'
 
 - Determining how somatic copy number alterations (SCNAs) promote cancer is an important goal. We characterized SCNA patterns in 4,934 cancers from The Cancer Genome Atlas Pan-Cancer data set
 
 - [Vähkides sagedasti deleteerunud genoomipiirkonnad](http://rpubs.com/tapa741/tuumorsupressorgeenid)
 
 - Pan-cancer patterns of somatic copy number alteration. Travis I Zack, Steven E Schumacher, Scott L Carter, Andrew D Cherniack, Gordon Saksena, Barbara Tabak, Michael S Lawrence, Cheng-Zhong Zhang, Jeremiah Wala, Craig H Mermel, Carrie Sougnez, Stacey B Gabriel, Bryan Hernandez, Hui Shen, Peter W Laird, Gad Getz, Matthew Meyerson & Rameen Beroukhim. Nature Genetics 45, 1134–1140 (2013) doi:10.1038/ng.2760
+
+---
+## DNA metülatsioon
+
+DNA metülatsioon on üks geeni vaigistamise mehhanism
+- Vähis metüleeritakse normaalselt mitte-metüleeritud CpG rikkad alad tuumor-supressorgeeni promootoralas
+- Sellist *de novo* metülatsiooni viivad läbi DNA metülaasid
+- DNA hüpermetülatsiooniga CpG-rikates alades kaasneb nukleosoomide asetsemine transkriptsiooni alguspunktis, mis on seotud  vaigistatud geenidega
+- Sagedased metüleeritud TSG on **Von Hippel–Lindau (VHL)** neerukasvajates ja **CDKN2A**.
+
+![dnmt](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307543/bin/nihms358721f2.jpg)
+
+--- .codefont &twocol
+## DNA hüpermetülatsioon vähis
+
+***=left
+
+![plot of chunk meth](assets/fig/meth-1.svg)
+
+***=right
+
+**DNA metülatsioon on geenispetsiifiline**
+
+|term      | df|     sumsq|   meansq| statistic|   p.value|
+|:---------|--:|---------:|--------:|---------:|---------:|
+|Geen      | 11|  7302.198| 663.8362|  2.420406| 0.0109599|
+|Kasvaja   | 14|  5109.686| 364.9776|  1.330741| 0.2055003|
+|Residuals | 90| 24683.988| 274.2665|        NA|        NA|
+
+
+<footer class="source">Manel Esteller, Paul G. Corn, Stephen B. Baylin, and James G. Herman. A Gene Hypermethylation Profile of Human Cancer. Cancer Res April 15, 2001 61; 3225</footer>
+
+--- .segue .dark .nobackground
+## Tuumor-supressorgeenid vähis ja vähisündroomides
 
 ---
 # Paljud TSG-d seotud pärilike vähisündroomidega
@@ -367,38 +400,6 @@ TSG-g võib funktsiooni alusel jagada '(värava)valvuriteks' ja 'hooldajateks'.
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCwsybXcLIfPWP7FVF55KCM0XS9dZUgHdCDX9OejizvD4_h2jChA" alt="caretaker" style="width: 240px;"/>
 
 <footer class="source">Vasakul, pilt: gatekeeperaegis.wikia.com. Paremal, pilt:www.dailyedge.ie</footer>
-
-
----
-## DNA metülatsioon
-
-DNA metülatsioon on üks geeni vaigistamise mehhanism
-- Vähis metüleeritakse normaalselt mitte-metüleeritud CpG rikkad alad tuumor-supressorgeeni promootoralas
-- Sellist *de novo* metülatsiooni viivad läbi DNA metülaasid
-- DNA hüpermetülatsiooniga CpG-rikates alades kaasneb nukleosoomide asetsemine transkriptsiooni alguspunktis, mis on seotud  vaigistatud geenidega
-- Sagedased metüleeritud TSG on **Von Hippel–Lindau (VHL)** neerukasvajates ja **CDKN2A**.
-
-![dnmt](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3307543/bin/nihms358721f2.jpg)
-
---- .codefont &twocol
-## DNA hüpermetülatsioon vähis
-
-***=left
-
-![plot of chunk meth](assets/fig/meth-1.svg)
-
-***=right
-
-**DNA metülatsioon on geenispetsiifiline**
-
-|term      | df|     sumsq|   meansq| statistic|   p.value|
-|:---------|--:|---------:|--------:|---------:|---------:|
-|Geen      | 11|  7302.198| 663.8362|  2.420406| 0.0109599|
-|Kasvaja   | 14|  5109.686| 364.9776|  1.330741| 0.2055003|
-|Residuals | 90| 24683.988| 274.2665|        NA|        NA|
-
-
-<footer class="source">Manel Esteller, Paul G. Corn, Stephen B. Baylin, and James G. Herman. A Gene Hypermethylation Profile of Human Cancer. Cancer Res April 15, 2001 61; 3225</footer>
 
 ---
 ## NF1 on dominantselt päranduv geneetiline haigus

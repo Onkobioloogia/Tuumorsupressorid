@@ -324,50 +324,14 @@ Genoomi piirk.|Geene piirk.|Märklaud|Sagedasti muteerunud geen = p.value | Funk
 12p13.1|5|CDKN1B|**CDKN1B** = 2.2e-06 | CDK inhibiitor
 18q21.2|3|**SMAD4**|SMAD4 = 6.6e-15 | transkriptsioonifaktor
 
-
 ---
-## Vähki genoomi mutatsioonide 'hotspotid'
+## Vähi genoomi mutatsioonide 'hotspotid'
 
 - Determining how somatic copy number alterations (SCNAs) promote cancer is an important goal. We characterized SCNA patterns in 4,934 cancers from The Cancer Genome Atlas Pan-Cancer data set
 
 - [Vähkides sagedasti deleteerunud genoomipiirkonnad](http://rpubs.com/tapa741/tuumorsupressorgeenid)
 
 - Pan-cancer patterns of somatic copy number alteration. Travis I Zack, Steven E Schumacher, Scott L Carter, Andrew D Cherniack, Gordon Saksena, Barbara Tabak, Michael S Lawrence, Cheng-Zhong Zhang, Jeremiah Wala, Craig H Mermel, Carrie Sougnez, Stacey B Gabriel, Bryan Hernandez, Hui Shen, Peter W Laird, Gad Getz, Matthew Meyerson & Rameen Beroukhim. Nature Genetics 45, 1134–1140 (2013) doi:10.1038/ng.2760
-
----
-# Paljud TSG-d seotud pärilike vähisündroomidega
-
-Genoomi piirkond | Geen | Pärilik sündroom | Sporaadiline vähk | Funktsioon
------------------|------|------------------|-------------------|-----------
-3p25 | **VHL** | von Hippel-Lindau sündroom | neeru kartsinoom | HIF-i ubiquitin ligaas
-5q15|**APC**| perekondlik *adenomatous polyposis coli* | käärsool, kõhunääre, magu, eesnääre | $\beta$-kateniini deg.
-9p21 | **p16INK4a** | perekondlik melanoom | erinevad | CDK inhibiitor
-10q23.31|**PTEN**|Cowdeni tõbi, rinna ja GI tuumorid| glioblastoom, eesnääre, rinna ja kilpnäärme vähk | fosfataas
-11p13 | **WT1** | Wilms tuumor | Wilms tuumor | TF  
-13q14.2|**RB1**|  retinoblastoom, osteosarkoom | põie, kopsu, rinnanäärme, pea- ja kaela vähk | E2F inhibiitor
-17p13.1|**P53**| Li-Fraumeni sündroom | peaegu kõigis vähkides | TF
-17q11.2|**NF1**| neurofibromatoos 1 | käärsool, astrotsütoom | Ras GAP
-18q21.2|**SMAD4**| juveniilne polüpoos | käärsool, kõhunääre | TGF-$\beta$ TF
-
----&twocol
-## TSG: *gatekeepers* ja  *caretakers*
-
-TSG-g võib funktsiooni alusel jagada '(värava)valvuriteks' ja 'hooldajateks'.
-
-- 'Valvurid' on seotud rakutsükli kontrolliga nt. p16INK4a (CDKN2A), RB, p27Kip1 (CDKN1B), PTEN
-- 'Hooldajad' on seotud kromatiini kontrolli ja genoomi terviklikkuse tagamisega nt. ARID1A, MLL3, BRCA1
-
-
-***=left
-
-<img src="assets/img/gatekeepers.jpg" alt="gatekeepers" style="width: 300px;"/>
-
-***=right
-
-<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCwsybXcLIfPWP7FVF55KCM0XS9dZUgHdCDX9OejizvD4_h2jChA" alt="caretaker" style="width: 240px;"/>
-
-<footer class="source">Vasakul, pilt: gatekeeperaegis.wikia.com. Paremal, pilt:www.dailyedge.ie</footer>
-
 
 ---
 ## DNA metülatsioon
@@ -415,6 +379,43 @@ hm %>% na.omit %>% lm(Protsent~Geen+Kasvaja, data=.) %>% anova %>% tidy %>% knit
 
 
 <footer class="source">Manel Esteller, Paul G. Corn, Stephen B. Baylin, and James G. Herman. A Gene Hypermethylation Profile of Human Cancer. Cancer Res April 15, 2001 61; 3225</footer>
+
+--- .segue .dark .nobackground
+## Tuumor-supressorgeenid vähis ja vähisündroomides
+
+---
+# Paljud TSG-d seotud pärilike vähisündroomidega
+
+Genoomi piirkond | Geen | Pärilik sündroom | Sporaadiline vähk | Funktsioon
+-----------------|------|------------------|-------------------|-----------
+3p25 | **VHL** | von Hippel-Lindau sündroom | neeru kartsinoom | HIF-i ubiquitin ligaas
+5q15|**APC**| perekondlik *adenomatous polyposis coli* | käärsool, kõhunääre, magu, eesnääre | $\beta$-kateniini deg.
+9p21 | **p16INK4a** | perekondlik melanoom | erinevad | CDK inhibiitor
+10q23.31|**PTEN**|Cowdeni tõbi, rinna ja GI tuumorid| glioblastoom, eesnääre, rinna ja kilpnäärme vähk | fosfataas
+11p13 | **WT1** | Wilms tuumor | Wilms tuumor | TF  
+13q14.2|**RB1**|  retinoblastoom, osteosarkoom | põie, kopsu, rinnanäärme, pea- ja kaela vähk | E2F inhibiitor
+17p13.1|**P53**| Li-Fraumeni sündroom | peaegu kõigis vähkides | TF
+17q11.2|**NF1**| neurofibromatoos 1 | käärsool, astrotsütoom | Ras GAP
+18q21.2|**SMAD4**| juveniilne polüpoos | käärsool, kõhunääre | TGF-$\beta$ TF
+
+---&twocol
+## TSG: *gatekeepers* ja  *caretakers*
+
+TSG-g võib funktsiooni alusel jagada '(värava)valvuriteks' ja 'hooldajateks'.
+
+- 'Valvurid' on seotud rakutsükli kontrolliga nt. p16INK4a (CDKN2A), RB, p27Kip1 (CDKN1B), PTEN
+- 'Hooldajad' on seotud kromatiini kontrolli ja genoomi terviklikkuse tagamisega nt. ARID1A, MLL3, BRCA1
+
+
+***=left
+
+<img src="assets/img/gatekeepers.jpg" alt="gatekeepers" style="width: 300px;"/>
+
+***=right
+
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCwsybXcLIfPWP7FVF55KCM0XS9dZUgHdCDX9OejizvD4_h2jChA" alt="caretaker" style="width: 240px;"/>
+
+<footer class="source">Vasakul, pilt: gatekeeperaegis.wikia.com. Paremal, pilt:www.dailyedge.ie</footer>
 
 ---
 ## NF1 on dominantselt päranduv geneetiline haigus
