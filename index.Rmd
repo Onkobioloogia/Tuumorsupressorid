@@ -132,8 +132,8 @@ Rakkude fuseerimiseksperimendid viitasid TSG-dele
 ## Tumorigeenne fenotüüp on retsessiivne
 
 - Geeni mutantne alleel on metsik-tüüpi alleeli olemasolul retsessiivne,
-- Metsik tüüpi alleel hoiab rakus ära tumorigeense fenotüübi avaldumise, siis ka nimetus tuumor-suppressor geen
-- Tuumorsupressorgeeni funktsiooni kadu toimub rakus ainult selle geeni mõlema alleeli muteerumise läbi
+- Metsik tüüpi alleel hoiab rakus ära tumorigeense fenotüübi avaldumise, siis ka nimetus tuumor-supressorgeen
+- Tuumor-supressorgeeni funktsiooni kadu toimub rakus ainult selle geeni mõlema alleeli muteerumise läbi
 
 ![evans](assets/img/evans_1982_2.png)
 
@@ -149,8 +149,7 @@ Rakkude fuseerimiseksperimendid viitasid TSG-dele
 ***=left
 - Kui vähki põhjustab järestikuste mutatsioonide akumuleerumine raku DNA-s siis peab vähiteke olema epidemioloogiliselt seotud vanusega
 - Ühe mutatsiooni korral oleks kõigis vanustes inimestel vähi intsidents sama peale mingit vanust
-- Kahe mutatsiooni korral on vähk lineaarselt vanusega seotud: $intsidents \sim vanus$ 
-- Kolme mutatsiooni korral: $intsidents \sim vanus^{2}$ jne.
+- Kahe ja enama mutatsiooni korral kasvab vähi intsidents seoses vanusega: $intsidents \sim vanus$ 
 
 ***=right
 
@@ -179,10 +178,10 @@ Rakkude fuseerimiseksperimendid viitasid TSG-dele
 
 ---&twocol
 ## Retinoblastoom
+
 - Retinoblastoom on lapseea vähisündroom mis tekib reetina fotoretseptorite ja ganglionite eellasrakkudes.
 - Intsidents üks juht 15000 kuni 20000 sünni kohta.
 - Arenenud maades keskmine iga diagnoosil 27 kuud unilateraalse vormi korral ja 15 kuud bilateraalse vormi korral.
-
 
 ***=left
 
