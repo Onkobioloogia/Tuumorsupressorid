@@ -121,10 +121,10 @@ Theodor Boveri (1862-1915), Saksa bioloog
 ## Rakkude fuseerimine ja tumorigeenne fenotüüp
 Rakkude fuseerimiseksperimendid viitasid TSG-dele
 
-- Rakkude fuseerumise võib indutseerida kasutades viiruseid või keemiliselt PEG-iga
-- Saadakse hübriidsed rakud e. sünsüütsiumid
-- Rakkude fuseerimist kasutati transformeerunud fenotüübi uurimiseks: vähirakke fuseeriti normaalsete rakkudega
-- Üllatuslikult, normaalsete ja vähirakkude fuseerumisel saadud hübriidsed rakud kaotasid tumorigeensuse!
+- Rakkude fuseerimist kasutati transformeerunud fenotüübi uurimiseks: vähirakke fuseeriti normaalsete rakkudega.
+- Rakkude fuseerumise võib indutseerida kasutades viiruseid või keemiliselt PEG-iga.
+- Saadakse hübriidsed rakud e. sünsüütsiumid.
+- Üllatuslikult, **normaalsete ja vähirakkude fuseerumisel saadud hübriidsed rakud kaotasid tumorigeensuse!**
 
 ![syncytium](assets/img/fusion.png)
 
