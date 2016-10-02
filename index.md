@@ -343,7 +343,7 @@ Genoomi piirkond | Geen | Pärilik sündroom | Sporaadiline vähk | Funktsioon
 11p13 | **WT1** | Wilms tuumor | Wilms tuumor | TF  
 13q14.2|**RB1**|  retinoblastoom, osteosarkoom | põie, kopsu, rinnanäärme, pea- ja kaela vähk | E2F inhibiitor
 17p13.1|**P53**| Li-Fraumeni sündroom | peaegu kõigis vähkides | TF
-17q11.2|**NF1**| neurofibromatoos 1 | käärsool, astotsütoom | Ras GAP
+17q11.2|**NF1**| neurofibromatoos 1 | käärsool, astrotsütoom | Ras GAP
 18q21.2|**SMAD4**| juveniilne polüpoos | käärsool, kõhunääre | TGF-$\beta$ TF
 
 ---&twocol
