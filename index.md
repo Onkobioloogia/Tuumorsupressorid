@@ -277,7 +277,7 @@ LOH-il on erinevaid mehhanisme:
 
 
 ---&twocol
-## Mitootiline rekombinatsioon
+## Mitootiline krossingover
 
 ***=right
 
@@ -287,7 +287,7 @@ LOH-il on erinevaid mehhanisme:
 
 ***=left
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mitotic_Recombination_Illustration.jpg/330px-Mitotic_Recombination_Illustration.jpg)
+![krossingover](http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mitotic_Recombination_Illustration.jpg/330px-Mitotic_Recombination_Illustration.jpg)
 
 <footer class="source">Pilt:wikipedia</footer>
 
