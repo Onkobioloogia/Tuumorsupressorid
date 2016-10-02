@@ -241,7 +241,7 @@ Total|	25%–30%	|70%–75%	|100%
 <footer class="source">Pilt: wikimedia.</footer>
 
 ---
-## RB teise alleeli mitootiline krossingover
+## rb teise alleeli mitootiline krossingover
 
 - Mitootilise krossingoveri tõenäosus on paar suurusjärku kõrgem kui mutatsioonil
 
