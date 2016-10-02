@@ -1,5 +1,5 @@
 ---
-title       : Tuumor-suppressor geenid
+title       : Tuumor-supressorgeenid
 subtitle    : Onkobioloogia
 author      : Taavi Päll
 job         : lektor, Tallinna Tehnikaülikool
@@ -84,14 +84,14 @@ Aktiveeritud Ras seotub ja aktiveerib oma effektorvalke:
 - **RalGDS (Ral GEF)**
 
 
-![](http://ars.els-cdn.com/content/image/1-s2.0-S1535610814000816-gr1.jpg)
+![Ras signaalirajad.](http://ars.els-cdn.com/content/image/1-s2.0-S1535610814000816-gr1.jpg)
 
 ***=right
 
-![](assets/img/RasPI3K.jpg)
+![Ras bound to PI3K.](assets/img/RasPI3K.jpg)
 
 --- .segue .dark .nobackground
-## Tuumor-suppressor geenid
+## Tuumor-supressorgeenid
 
 ---&twocol
 ## Geenide osa vähis on kahesuunaline
@@ -103,14 +103,15 @@ Aktiveeritud Ras seotub ja aktiveerib oma effektorvalke:
 Theodor Boveri (1862-1915), Saksa bioloog
 
 ***=right
-- Töötas merisiiliku mudeliga
-- Kõik kromosoomid on vajalikud normaalseks embrüogeneesiks
-- Osad kromosoomid stimuleerivad rakkude jagunemist ja osad kromosoomid inhibeerivad
+
+- Töötas merisiiliku mudeliga.
+- Leidis, et kõik kromosoomid on vajalikud normaalseks embrüogeneesiks.
+- Osad kromosoomid stimuleerivad rakkude jagunemist ja osad kromosoomid inhibeerivad.
 
 ---
-## Tuumor-suppressor geenid
+## Tuumor-supressorgeenid
 
-- Lisaks onkogeenidele on vähiga seotud ka teine klass geene **tuumor-suppressor geenid**
+- Lisaks onkogeenidele on vähiga seotud ka teine klass geene **tuumor-supressorgeenid** (TSG)
 - TSG-de olemasolule viitasid rakkude fuseerimiseksperimendid, kui uuriti onkogeenide toimet 
 - TSG-g toimivad onkogeenidele vastupidiselt, kontrollides ja pidurdades onkogeenide funktsiooni
 - Normaalsetes rakkudes on onkogeenide ja tuumor-suppressorgeenide toime tasakaalus ja rakkude jagunemine toimub kontrollitult
@@ -118,7 +119,7 @@ Theodor Boveri (1862-1915), Saksa bioloog
 ![slow](assets/img/captain_slow.png)
 
 ---
-## Rakkude fuseerimine
+## Rakkude fuseerimine ja tumorigeenne fenotüüp
 
 - Rakkude fuseerumise võib indutseerida kasutades viiruseid või keemiliselt PEG-iga
 - Saadakse hübriidsed rakud e. sünsüütsiumid
@@ -140,7 +141,7 @@ Theodor Boveri (1862-1915), Saksa bioloog
 ## Raku fuusion eksperimentide paradoks
 
 - Vähisündroomid (retinoblastoom, Li-Fraumeni, neurofibromatoos) on dominantse pärilikusega: pärilikku vähi mutatsiooni kandvad indiviidid saavad peaaegu kindlasti vähi
-- Tuumor-suppressor geenid aga toimivad raku tasemel retsessiivselt: ühe alleeli mutatsioon ei ole piisav raku transformeerumiseks
+- Tuumor-supressorgeenid aga toimivad raku tasemel retsessiivselt: ühe alleeli mutatsioon ei ole piisav raku transformeerumiseks
 
 ---&twocol
 ## Vähi seos elueaga
