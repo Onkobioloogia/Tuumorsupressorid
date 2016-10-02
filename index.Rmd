@@ -380,8 +380,6 @@ DNA metülatsioon on üks geeni vaigistamise mehhanism
 --- .codefont &twocol
 ## DNA hüpermetülatsioon vähis
 
-# Geenide **hüpermetülatsioon vähis** ei ole totaalne üle terve kromosoomi/regiooni, vaid **toimub geenispetsiifiliselt**.
-
 ***=left
 
 ```{r meth, echo=FALSE, fig.keep='last', fig.height=6.5,dev='svg'}
@@ -405,7 +403,8 @@ hm %>% na.omit %>% ggplot(., aes(x=Kasvaja, y=Protsent, fill=Kasvaja))+
 ```
 
 ***=right
-Metülatsioon on geenispetsiifiline
+
+**DNA metülatsioon on geenispetsiifiline**
 ```{r, dependson='meth', echo=FALSE, tidy=TRUE}
 library(broom)
 hm %>% na.omit %>% lm(Protsent~Geen+Kasvaja, data=.) %>% anova %>% tidy %>% knitr::kable()

@@ -380,14 +380,13 @@ DNA metülatsioon on üks geeni vaigistamise mehhanism
 --- .codefont &twocol
 ## DNA hüpermetülatsioon vähis
 
-# Geenide **hüpermetülatsioon vähis** ei ole totaalne üle terve kromosoomi/regiooni, vaid **toimub geenispetsiifiliselt**.
-
 ***=left
 
 ![plot of chunk meth](assets/fig/meth-1.svg)
 
 ***=right
-Metülatsioon on geenispetsiifiline
+
+**DNA metülatsioon on geenispetsiifiline**
 
 |term      | df|     sumsq|   meansq| statistic|   p.value|
 |:---------|--:|---------:|--------:|---------:|---------:|
