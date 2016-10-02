@@ -407,7 +407,8 @@ hm %>% na.omit %>% ggplot(., aes(x=Kasvaja, y=Protsent, fill=Kasvaja))+
 ***=right
 Metülatsioon on geenispetsiifiline
 ```{r, dependson='meth', echo=FALSE, tidy=TRUE}
-hm %>% na.omit %>% lm(Protsent~Geen+Kasvaja, data=.) %>% anova
+library(broom)
+hm %>% na.omit %>% lm(Protsent~Geen+Kasvaja, data=.) %>% anova %>% tidy
 ```
 
 

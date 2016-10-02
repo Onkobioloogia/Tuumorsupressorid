@@ -390,15 +390,10 @@ DNA metülatsioon on üks geeni vaigistamise mehhanism
 Metülatsioon on geenispetsiifiline
 
 ```
-## Analysis of Variance Table
-## 
-## Response: Protsent
-##           Df  Sum Sq Mean Sq F value  Pr(>F)  
-## Geen      11  7302.2  663.84  2.4204 0.01096 *
-## Kasvaja   14  5109.7  364.98  1.3307 0.20550  
-## Residuals 90 24684.0  274.27                  
-## ---
-## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+##        term df     sumsq   meansq statistic   p.value
+## 1      Geen 11  7302.198 663.8362  2.420406 0.0109599
+## 2   Kasvaja 14  5109.686 364.9776  1.330741 0.2055003
+## 3 Residuals 90 24683.988 274.2665        NA        NA
 ```
 
 
