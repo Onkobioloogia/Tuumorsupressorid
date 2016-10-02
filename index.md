@@ -389,12 +389,11 @@ DNA metülatsioon on üks geeni vaigistamise mehhanism
 ***=right
 Metülatsioon on geenispetsiifiline
 
-```
-##        term df     sumsq   meansq statistic   p.value
-## 1      Geen 11  7302.198 663.8362  2.420406 0.0109599
-## 2   Kasvaja 14  5109.686 364.9776  1.330741 0.2055003
-## 3 Residuals 90 24683.988 274.2665        NA        NA
-```
+|term      | df|     sumsq|   meansq| statistic|   p.value|
+|:---------|--:|---------:|--------:|---------:|---------:|
+|Geen      | 11|  7302.198| 663.8362|  2.420406| 0.0109599|
+|Kasvaja   | 14|  5109.686| 364.9776|  1.330741| 0.2055003|
+|Residuals | 90| 24683.988| 274.2665|        NA|        NA|
 
 
 <footer class="source">Manel Esteller, Paul G. Corn, Stephen B. Baylin, and James G. Herman. A Gene Hypermethylation Profile of Human Cancer. Cancer Res April 15, 2001 61; 3225</footer>
